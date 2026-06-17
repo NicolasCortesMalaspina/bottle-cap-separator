@@ -76,7 +76,7 @@ Feel free to fork and submit pull requests with improvements!
 
 ## Contact
 
-For questions or inquiries, reach out to [your contact info]
+For questions or inquiries, reach out to nicolas.cortes@ucr.ac.cr
 
 ## Acknowledgments
 
